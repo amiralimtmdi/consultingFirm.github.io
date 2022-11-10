@@ -1307,9 +1307,9 @@ html {
     max-width: 100%;
   }
   .strach-section__imge img {
-    max-width: 113%;
+    max-width: 100%;
     margin-left: 0; 
-    height: 100%;
+    height: auto;
   }
   .strach-section__text h2 {
     font-size: 40px;
