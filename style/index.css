@@ -1209,6 +1209,7 @@ html {
     align-items: flex-start;
     background-color: #d5ae10;
     justify-content: unset;
+    transition: 0.3s all;
   }
   .nav__ul li {
     padding: 35px;
